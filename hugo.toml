@@ -1,6 +1,6 @@
-baseURL = 'https://james-tech-blog.pages.dev/'
+baseURL = 'https://netcryptix.com/'
 languageCode = 'en-us'
-title = "James's Network & Security Lab"
+title = "NetCryptix - Network & Security Lab"
 theme = 'PaperMod'
 
 [params]
