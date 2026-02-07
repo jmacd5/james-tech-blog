@@ -1,3 +1,37 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://james-tech-blog.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "James's Network & Security Lab"
+theme = 'PaperMod'
+
+[params]
+  description = "Enterprise Networking, Cybersecurity & Data Center Architecture"
+  author = "James MacDonald"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
+
+[markup]
+  [markup.highlight]
+    style = 'monokai'
+    lineNos = true
+    lineNumbersInTable = true

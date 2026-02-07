@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on James&#39;s Network &amp; Security Lab</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Posts on James&#39;s Network &amp; Security Lab</description>
+    <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Feb 2026 16:08:43 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/hybrid-mesh-firewall-security/</link>
       <pubDate>Sat, 07 Feb 2026 16:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/hybrid-mesh-firewall-security/</guid>
-      <description>&lt;h2 id=&#34;1-introduction-the-complexity-crisis&#34;&gt;1. Introduction: The Complexity Crisis&lt;/h2&gt;&#xA;&lt;p&gt;The corporate network is undergoing an invisible but radical expansion. It no longer resides within the fixed geography of a data center; it has become a distributed capability stretching across multiple public clouds, edge environments, and increasingly, complex AI models. As this infrastructure sprawls, the traditional concept of a &amp;ldquo;perimeter&amp;rdquo; is becoming a dangerous myth.&lt;/p&gt;&#xA;&lt;p&gt;The vanguard of enterprise security has moved toward a &amp;ldquo;Hybrid Mesh Firewall&amp;rdquo; architecture to address a fundamental shift in the threat landscape. Traditional security measures are buckling under the weight of two inescapable realities: over 90% of enterprise traffic is now encrypted, and the emergence of Generative AI has created a primary target that firewalls were never designed to see. To survive this era, security must evolve from a collection of isolated points into an intelligent, unified fabric.&lt;/p&gt;</description>
+      <description>How Hybrid Mesh Firewalls are revolutionizing enterprise security in the age of AI and encrypted traffic</description>
     </item>
   </channel>
 </rss>
