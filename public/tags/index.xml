@@ -69,5 +69,35 @@
       
     </item>
     
+    <item>
+      <title>Compliance</title>
+      <link>http://localhost:1313/tags/compliance/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/compliance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data-Center</title>
+      <link>http://localhost:1313/tags/data-center/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-center/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/tags/healthcare/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/healthcare/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

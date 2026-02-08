@@ -3,16 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/posts/hybrid-mesh-firewall-security/</loc>
     <lastmod>2026-02-07T16:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hybrid-mesh-firewall-security/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-07T16:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-02-07T16:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
@@ -25,9 +29,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/authors/james/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/services/</loc>

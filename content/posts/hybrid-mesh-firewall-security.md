@@ -2,8 +2,9 @@
 title: "Beyond the Perimeter: 5 Surprising Truths About Securing the Modern Hybrid Mesh"
 date: 2026-02-07T16:00:00-05:00
 draft: false
-tags: ["cisco", "security", "firewall", "AI", "hybrid-cloud", "encryption"]
+tags: ["firewall", "AI", "hybrid-cloud", "encryption", "zero-trust"]
 categories: ["security", "data-center"]
+vendors: ["cisco"]
 author: "James MacDonald"
 description: "How Hybrid Mesh Firewalls are revolutionizing enterprise security in the age of AI and encrypted traffic"
 toc: true
