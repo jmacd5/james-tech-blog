@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Rack: 5 Surprising Truths I Uncovered on My Path to Nutanix Certification"
 date: 2026-02-08
-draft: false
+draft: true
 tags: ["nutanix", "hci", "certification", "ahv", "hyperconverged"]
 categories: ["data-center", "virtualization"]
 vendors: ["nutanix"]
