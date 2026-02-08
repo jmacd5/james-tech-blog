@@ -1,4 +1,4 @@
-baseURL = "https://netcryptix.com/"
+baseURL = "https://blog.netcryptix.com/"
 languageCode = "en"
 title = "NetCryptix"
 theme = "blowfish"
