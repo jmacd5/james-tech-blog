@@ -1,46 +1,11 @@
-baseURL = 'https://netcryptix.com/'
-languageCode = 'en-us'
-title = 'NetCryptix'
-theme = 'blowfish'
+baseURL = "https://netcryptix.com/"
+languageCode = "en"
+title = "NetCryptix"
+theme = "blowfish"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-[params]
-  author = "James MacDonald"
-  description = "Enterprise Networking, Cybersecurity & Data Center Solutions"
-  
-[params.homepage]
-  layout = "profile"
-  showRecent = true
-  showRecentItems = 6
-
-[params.article]
-  showDate = true
-  showDateUpdated = false
-  showAuthor = true
-  showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  showTaxonomies = true
-  showWordCount = true
-  showComments = false
-
-[params.list]
-  showBreadcrumbs = true
-  showTableOfContents = false
-  showTaxonomies = true
-  groupByYear = true
-
-[markup.highlight]
-  style = 'monokai'
-  lineNos = true
-
-[markup.goldmark.renderer]
-  unsafe = true
+[author]
+  name = "James MacDonald"
+  headline = "Network & Security Architect"
 
 [[menu.main]]
   name = "About"
@@ -66,48 +31,9 @@ theme = 'blowfish'
   name = "Contact"
   pageRef = "contact"
   weight = 50
-EOF
 
-# Create Blowfish-specific config
-mkdir -p config/_default
-cat > config/_default/params.toml << 'EOF'
-colorScheme = "ocean"
-defaultAppearance = "dark"
-autoSwitchAppearance = true
+[markup.highlight]
+  style = "monokai"
 
-enableSearch = true
-enableCodeCopy = true
-
-[header]
-  layout = "fixed"
-
-[footer]
-  showCopyright = true
-  showThemeAttribution = false
-  showAppearanceSwitcher = true
-  showScrollToTop = true
-
-[homepage]
-  layout = "profile"
-  homepageImage = "img/hero.jpg"
-  showRecent = true
-  showRecentItems = 6
-  showMoreLink = true
-  showMoreLinkDest = "/posts"
-  cardView = true
-  cardViewScreenWidth = false
-
-[article]
-  showDate = true
-  showDateUpdated = false
-  showAuthor = true
-  showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  showTaxonomies = true
-  showWordCount = true
-  showComments = false
-  sharingLinks = ["linkedin", "twitter", "email"]
+[markup.goldmark.renderer]
+  unsafe = true

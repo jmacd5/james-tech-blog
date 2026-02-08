@@ -1,0 +1,10 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "NetCryptix"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "Enterprise Networking, Cybersecurity & Data Center Solutions"

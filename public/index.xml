@@ -1,26 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on James&#39;s Network &amp; Security Lab</title>
+    <title>NetCryptix</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on James&#39;s Network &amp; Security Lab</description>
-    <generator>Hugo -- 0.155.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Feb 2026 16:08:43 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My New Post</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
-      <pubDate>Sat, 07 Feb 2026 16:08:43 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
-      <description></description>
-    </item>
+    <description>Recent content on NetCryptix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sat, 07 Feb 2026 16:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Beyond the Perimeter: 5 Surprising Truths About Securing the Modern Hybrid Mesh</title>
       <link>http://localhost:1313/posts/hybrid-mesh-firewall-security/</link>
       <pubDate>Sat, 07 Feb 2026 16:00:00 -0500</pubDate>
+      
       <guid>http://localhost:1313/posts/hybrid-mesh-firewall-security/</guid>
-      <description>How Hybrid Mesh Firewalls are revolutionizing enterprise security in the age of AI and encrypted traffic</description>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;1. Introduction: The Complexity Crisis&#xA;    &lt;div id=&#34;1-introduction-the-complexity-crisis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-introduction-the-complexity-crisis&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The corporate network is undergoing an invisible but radical expansion. It no longer resides within the fixed geography of a data center; it has become a distributed capability stretching across multiple public clouds, edge environments, and increasingly, complex AI models. As this infrastructure sprawls, the traditional concept of a &amp;ldquo;perimeter&amp;rdquo; is becoming a dangerous myth.&lt;/p&gt;</description>
+      
     </item>
+    
+    <item>
+      <title>About NetCryptix</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Who I Am&#xA;    &lt;div id=&#34;who-i-am&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#who-i-am&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;James MacDonald&lt;/strong&gt;, a Cisco Network Engineer and Data Center Solutions/Security Architect with extensive experience deploying enterprise-grade infrastructure for government contractors and Fortune 500 companies.&lt;/p&gt;&#xA;&lt;p&gt;As a Solutions Architect, I bridge the gap between cutting-edge security requirements and practical, scalable implementations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Core Competencies&#xA;    &lt;div id=&#34;core-competencies&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#core-competencies&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Network Engineering&#xA;    &lt;div id=&#34;network-engineering&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#network-engineering&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enterprise Switching&lt;/strong&gt;: Cisco Catalyst, Nexus 9K/7K, VPC, HSRP/VRRP&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Routing Protocols&lt;/strong&gt;: BGP, OSPF, EIGRP for campus and data center&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Center Fabrics&lt;/strong&gt;: VXLAN/EVPN overlays, spine-leaf architectures&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wireless&lt;/strong&gt;: Cisco Meraki, DNA Spaces, Entra ID integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Security Architecture&#xA;    &lt;div id=&#34;security-architecture&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#security-architecture&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Firewalls&lt;/strong&gt;: Palo Alto, Cisco ASA/Firepower, Azure Firewall&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Zero Trust&lt;/strong&gt;: Micro-segmentation, identity-based policies, MFA (Cisco DUO)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Compliance&lt;/strong&gt;: FedRAMP, NIST 800-53, DoD cleared facility requirements&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Threat Intelligence&lt;/strong&gt;: Cisco Talos integration, SIEM correlation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Cloud &amp;amp; Automation&#xA;    &lt;div id=&#34;cloud--automation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#cloud--automation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hybrid Cloud&lt;/strong&gt;: Azure, AWS, multicloud networking and security&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Infrastructure as Code&lt;/strong&gt;: Terraform, Ansible for network automation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scripting&lt;/strong&gt;: Python for API integration and workflow automation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Platforms&lt;/strong&gt;: Nutanix HCI, VMware ESXi, Cisco Intersight&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Education &amp;amp; Certifications&#xA;    &lt;div id=&#34;education--certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#education--certifications&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;B.S. Cybersecurity&lt;/strong&gt; (In Progress)&lt;br&gt;&#xA;&lt;em&gt;Western Governors University&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Let&amp;rsquo;s Discuss Your Project&#xA;    &lt;div id=&#34;lets-discuss-your-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#lets-discuss-your-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Whether you&amp;rsquo;re planning a network refresh, need security architecture expertise, or want to explore modern infrastructure solutions, I&amp;rsquo;m here to help.&lt;/p&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Ways to Connect&#xA;    &lt;div id=&#34;ways-to-connect&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#ways-to-connect&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Professional Inquiries&lt;/strong&gt;&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:james@netcryptix.com&#34; &gt;james@netcryptix.com&lt;/a&gt;&lt;br&gt;&#xA;LinkedIn: &lt;a href=&#34;https://linkedin.com/in/yourprofile&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Connect with me&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;For RFP/Proposal Support&lt;/strong&gt;&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:rfp@netcryptix.com&#34; &gt;rfp@netcryptix.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technical Discussions&lt;/strong&gt;&lt;br&gt;&#xA;Schedule a consultation to discuss your specific challenges&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;What I Offer&#xA;    &lt;div id=&#34;what-i-offer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#what-i-offer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Network Architecture &amp;amp; Design&#xA;    &lt;div id=&#34;network-architecture--design&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#network-architecture--design&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enterprise Campus Networks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Layer 2/3 switching design and implementation&lt;/li&gt;&#xA;&lt;li&gt;High availability with redundant paths and protocols&lt;/li&gt;&#xA;&lt;li&gt;Performance optimization and capacity planning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Center Infrastructure&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spine-leaf fabric design with VXLAN/EVPN&lt;/li&gt;&#xA;&lt;li&gt;Storage networking (FC, FCoE, iSCSI)&lt;/li&gt;&#xA;&lt;li&gt;Compute integration with Cisco UCS and Nutanix&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Routing &amp;amp; WAN&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
