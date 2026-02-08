@@ -36,9 +36,7 @@ TEST needed to replace aging Cisco Catalyst switches across six school campuses 
 - ✓ 10x bandwidth improvement
 - ✓ Simplified management through centralized cloud
 - ✓ Enhanced security posture with identity-based access
-EOF
 
-cat > content/portfolio/hybrid-mesh-security.md << 'EOF'
 ---
 title: "Government Contractor Hybrid Mesh Firewall"
 date: 2026-01-15
