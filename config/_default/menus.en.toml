@@ -14,6 +14,42 @@
   weight = 30
 
 [[main]]
+  name = "All Posts"
+  parent = "Blog"
+  pageRef = "posts"
+  weight = 31
+
+[[main]]
+  name = "Cisco & Meraki"
+  parent = "Blog"
+  pageRef = "vendors/cisco"
+  weight = 32
+
+[[main]]
+  name = "Nutanix"
+  parent = "Blog"
+  pageRef = "vendors/nutanix"
+  weight = 33
+
+[[main]]
+  name = "Microsoft"
+  parent = "Blog"
+  pageRef = "vendors/microsoft"
+  weight = 34
+
+[[main]]
+  name = "Cohesity"
+  parent = "Blog"
+  pageRef = "vendors/cohesity"
+  weight = 35
+
+[[main]]
+  name = "Pure Storage"
+  parent = "Blog"
+  pageRef = "vendors/pure-storage"
+  weight = 36
+
+[[main]]
   name = "Portfolio"
   pageRef = "portfolio"
   weight = 40
