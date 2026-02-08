@@ -1,10 +1,10 @@
 ---
 title: "Services"
-description: "How I can help your organization"
+description: "How we can help your organization"
 showDate: false
 ---
 
-## What I Offer
+## What I Assist in
 
 ### Network Architecture & Design
 
