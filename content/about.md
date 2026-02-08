@@ -61,7 +61,6 @@ The name reflects the intersection of **networking** and **cryptography** - the 
 
 ## Recent Projects
 
-- **Berkeley County School District**: Complete network infrastructure refresh across 6 locations
 - **Cisco Modeling Labs**: Advanced VLAN and routing scenario deployments
 - **Government Contractor Networks**: Cleared facility infrastructure with strict compliance requirements
 - **Meraki Wireless Migrations**: Enterprise-wide wireless security architecture
