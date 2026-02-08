@@ -1,37 +1,113 @@
 baseURL = 'https://netcryptix.com/'
 languageCode = 'en-us'
-title = "NetCryptix - Network & Security Lab"
-theme = 'PaperMod'
+title = 'NetCryptix'
+theme = 'blowfish'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [params]
-  description = "Enterprise Networking, Cybersecurity & Data Center Architecture"
   author = "James MacDonald"
-  ShowReadingTime = true
-  ShowCodeCopyButtons = true
-  ShowBreadCrumbs = true
-  ShowPostNavLinks = true
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
+  description = "Enterprise Networking, Cybersecurity & Data Center Solutions"
   
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 20
-  
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 30
+[params.homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 6
 
-[markup]
-  [markup.highlight]
-    style = 'monokai'
-    lineNos = true
-    lineNumbersInTable = true
+[params.article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
+  showComments = false
+
+[params.list]
+  showBreadcrumbs = true
+  showTableOfContents = false
+  showTaxonomies = true
+  groupByYear = true
+
+[markup.highlight]
+  style = 'monokai'
+  lineNos = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[menu.main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 20
+
+[[menu.main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 30
+
+[[menu.main]]
+  name = "Portfolio"
+  pageRef = "portfolio"
+  weight = 40
+
+[[menu.main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 50
+EOF
+
+# Create Blowfish-specific config
+mkdir -p config/_default
+cat > config/_default/params.toml << 'EOF'
+colorScheme = "ocean"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  homepageImage = "img/hero.jpg"
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = true
+  cardViewScreenWidth = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
+  showComments = false
+  sharingLinks = ["linkedin", "twitter", "email"]
