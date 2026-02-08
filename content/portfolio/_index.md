@@ -4,9 +4,7 @@ description: "Selected projects and case studies - Working Page"
 ---
 
 Real-world implementations showcasing enterprise network and security architecture.
-EOF
 
-cat > content/portfolio/school-district-refresh.md << 'EOF'
 ---
 title: "TEST"
 date: 2026-02-01

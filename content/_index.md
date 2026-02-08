@@ -1,3 +1,4 @@
+---
 title: "NetCryptix"
 description: "Enterprise Network & Security Architecture"
 ---
